@@ -45,7 +45,7 @@ It provides a clean, modern UI with rounded elements, transparent backgrounds, a
 ```
 project/
 │── chatbot.py       # Main application file
-│── assets/          # Background images (optional)
+│── chatbot-avatar          # Background images (optional)
 │── README.md        # Project documentation
 │── requirements.txt # Dependencies
 ```
